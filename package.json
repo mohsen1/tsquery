@@ -24,7 +24,7 @@
     "prepublishOnly": "rm -rf dist && npm run build"
   },
   "dependencies": {
-    "esquery": "^1.0.1"
+    "esquery": "^1.6.0"
   },
   "devDependencies": {
     "@types/chai": "^4.1.2",
